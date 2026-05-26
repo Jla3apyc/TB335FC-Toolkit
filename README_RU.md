@@ -40,3 +40,5 @@
 
 > 💡 **Примечание по совместимости:** Этот метод также работает с:
 > `TB336FU_ZUI_17.5.10.085` + `TB335FC_ZUXOS_1.5.10.057`
+
+[YouTube](https://www.youtube.com/watch?v=Gr1e-h9SAfk)
