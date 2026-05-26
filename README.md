@@ -7,6 +7,12 @@ Instructions for flashing the Lenovo Xiaoxin Pad 11 2025 (TB335FC - China) with 
 > - Back up all important data beforehand
 > - Proceed **at your own risk**
 
+## ✅ What you'll get
+- Global firmware with Google Play & multi-language support
+
+## ❌ What doesn't work
+- OTA updates
+
 ## 📦 What You'll Need
 - Firmware: `TB336FU_ZUI_17.5.10.213` (main)
 - Firmware: `TB335FC_ZUXOS_1.5.10.172` (source for `dtbo.img`)
@@ -41,4 +47,4 @@ Instructions for flashing the Lenovo Xiaoxin Pad 11 2025 (TB335FC - China) with 
 > 💡 **Compatibility Note:** This method also works with:
 > `TB336FU_ZUI_17.5.10.085` + `TB335FC_ZUXOS_1.5.10.057`
 
-[YouTube](https://www.youtube.com/watch?v=Gr1e-h9SAfk)
+[YouTube](https://www.youtube.com/watch?v=mYe1XaooGX4)
