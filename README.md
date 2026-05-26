@@ -21,15 +21,15 @@ Instructions for flashing the Lenovo Xiaoxin Pad 11 2025 (TB335FC - China) with 
 3. Copy the `dtbo.img` file from `TB335FC_ZUXOS_1.5.10.172/image/` to `TB336FU_ZUI_17.5.10.213/image/` (**overwrite** the existing file)
 4. Place the custom scatter file `MT6835_Android_scatter.xml` into `TB336FU_ZUI_17.5.10.213/image/`
 5. Launch the flashing tool `SPFlashToolV6.exe` from the `TB336FU_ZUI_17.5.10.213`
-6. Configure **SP Flash Tool**:
-   - In the **"Battery"** section, check the **"Auto detect"** box
-   - In the **"Download-XML"** section, select: `image\download_agent\flash.xml`
-   - In the **"Authentication File"** section, select: `image\download_agent\da.auth`
+6. Configure `SP Flash Tool`:
+   - In the `Battery` section, check the `Auto detect` box
+   - In the `Download-XML` section, select: `image\download_agent\flash.xml`
+   - In the `Authentication File` section, select: `image\download_agent\da.auth`
 7. Select flashing mode:
-   - Go to the **"Download"** tab
-   - Choose: **"Firmware Upgrade"** (all user data will be erased) or **"Download Only"** (you can uncheck `userdata` box to keep user data)
+   - Go to the `Download` tab
+   - Choose: `Firmware Upgrade` (all user data will be erased) or `Download Only` (you can uncheck `userdata` box to keep user data)
 8. Start flashing:
-   - Click the **"Download"** button
+   - Click the `Download` button
    - Connect your **powered-off** tablet via USB
    - Wait for completion (green checkmark ✅ will appear) 
 
