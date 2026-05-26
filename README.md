@@ -35,7 +35,7 @@ Instructions for flashing the Lenovo Xiaoxin Pad 11 2025 (TB335FC - China) with 
 
 ## ❗ Critical Notes
 - 🔄 Copy **only** `dtbo.img` and `MT6835_Android_scatter.xml` — do not replace any other files!
-- ☑️ **Do not uncheck** any items in the flashing tool unless you fully understand the consequences
+- ☑️ **Do not uncheck** any items in `SP Flash Tool` unless you fully understand the consequences
 - 🔌 Never disconnect the tablet until the process is 100% complete
 
 > 💡 **Compatibility Note:** This method also works with:
