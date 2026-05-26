@@ -12,7 +12,7 @@ Instructions for flashing the Lenovo Xiaoxin Pad 11 2025 (TB335FC - China) with 
 - Firmware: `TB335FC_ZUXOS_1.5.10.172` (source for `dtbo.img`)
 - Flashing tool: `SP Flash Tool v6` (usually included in firmware folder)
 - Drivers: `MTK Driver Setup.exe`
-- Custom scatter file: [MT6835_Android_scatter.xml](https://github.com/user-attachments/files/28256549/MT6835_Android_scatter.xml)
+- Custom scatter file: [MT6835_Android_scatter.xml](https://github.com/user-attachments/files/28256549/MT6835_Android_scatter.xml) (it has enabled flashing of slots A and B)
 - USB cable and a **powered-off** tablet
 
 ## 🔧 Step-by-Step Guide
