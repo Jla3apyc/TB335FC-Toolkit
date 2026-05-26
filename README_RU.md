@@ -22,7 +22,7 @@
 4. Поместите скачанный по ссылке выше файл scatter `MT6835_Android_scatter.xml` в папку `TB336FU_ZUI_17.5.10.213/image/`
 5. Запустите инструмент прошивки `SPFlashToolV6.exe` из папки `TB336FU_ZUI_17.5.10.213`
 6. Выполните предварительную настройку **SP Flash Tool**:
-   - В разделе **"Battery"** (Батарея) выберите пункт **"Auto detect"** (Автоопределение)
+   - В разделе **"Battery"** выберите пункт **"Auto detect"**
    - В разделе **"Download-XML"** выберите файл: `image\download_agent\flash.xml`
    - В разделе **"Authentication File"** выберите файл: `image\download_agent\da.auth`
 7. Выберите режим прошивки:
