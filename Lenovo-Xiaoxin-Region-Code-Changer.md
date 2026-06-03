@@ -8,6 +8,8 @@ A minimalist, portable, and safe tool for changing the region code in the `proin
 > **Note:** Changing the region code will likely **stop OTA updates** from working. Always make a full backup before proceeding.
 
 ---
+[Download link](Lenovo-Xiaoxin-Region-Code-Changer.zip)
+---
 
 ## ✨ Features
 
