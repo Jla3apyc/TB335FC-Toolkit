@@ -8,7 +8,7 @@
 > **Важно:** Смена региона с высокой вероятностью **отключит получение OTA-обновлений**. Всегда делайте полный бэкап перед началом работы.
 
 ---
-[Ссылка для скачивания](https://github.com/Jla3apyc/TB335FC-flash-guide/releases/download/1/XiaoxinPadRegionCodeChanger.zip)
+[Ссылка для скачивания](https://github.com/Jla3apyc/TB335FC-flash-guide/raw/refs/heads/main/Lenovo-Xiaoxin-Region-Code-Changer.zip)
 ---
 
 ## ✨ Возможности
