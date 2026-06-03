@@ -10,15 +10,15 @@ A collection of utilities and detailed guides for managing, modifying, and flash
 
 This toolkit consists of two interconnected projects. Choose the one that matches your task:
 
-### 🌍 1. [Lenovo-Xiaoxin-Region-Code-Changer](Lenovo-Xiaoxin-Region-Code-Changer.md)
-A minimalist, portable, and safe tool for changing the region code in the `proinfo` partition.
-* **Purpose:** Activate Widevine L1 (HD video), Google Play certification, change regional settings.
-* **Features:** No Python required, works via built-in PowerShell, automatically reads scatter files, bilingual interface (RU/EN), and built-in input validation.
-
-### 📖 2. [TB335FC-flash-guide](TB335FC-flash-guide.md)
+### 📖 1. [TB335FC-flash-guide](TB335FC-flash-guide.md)
 A step-by-step guide for complete flashing, recovery, and device maintenance using SP Flash Tool.
 * **Purpose:** Install stock or custom firmware, recover device after failed modifications (unbrick), install MediaTek VCOM drivers.
 * **Features:** Detailed screenshots, scatter file structure explanation, SLA/DA authentication bypass methods.
+
+### 🌍 2. [Lenovo-Xiaoxin-Region-Code-Changer](Lenovo-Xiaoxin-Region-Code-Changer.md)
+A minimalist, portable, and safe tool for changing the region code in the `proinfo` partition.
+* **Purpose:** Activate Widevine L1 (HD video), Google Play certification, change regional settings.
+* **Features:** No Python required, works via built-in PowerShell, automatically reads scatter files, bilingual interface (RU/EN), and built-in input validation.
 
 ---
 
