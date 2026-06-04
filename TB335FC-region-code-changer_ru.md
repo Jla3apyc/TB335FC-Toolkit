@@ -1,4 +1,4 @@
-[🇬🇧 Read in English](TB335FC-Region-Code-Changer.md)
+[🇬🇧 Read in English](TB335FC-region-code-changer.md)
 # 🔄 Смена региона Lenovo Xiaoxin (TB335FC и устройства на MTK)
 
 Минималистичный, портативный и безопасный инструмент для изменения кода региона в разделе `proinfo` устройств на процессорах MediaTek (MTK). Изначально разработан для **Lenovo Xiaoxin Pad 2025 (TB335FC)**, но универсально совместим с другими устройствами MTK (UFS/EMMC) при наличии правильного scatter-файла.
