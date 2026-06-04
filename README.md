@@ -1,3 +1,4 @@
+[Русскоязычная версия](README_RU.md)
 # 🛠️ Lenovo Xiaoxin Pad (TB335FC) Toolkit & Guides
 
 A collection of utilities and detailed guides for managing, modifying, and flashing MediaTek-based devices (MT6835), with a focus on the **Lenovo Xiaoxin Pad 2025 (TB335FC)**.
