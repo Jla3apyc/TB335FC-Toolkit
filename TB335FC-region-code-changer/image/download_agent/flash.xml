@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<flash-mode>
+    <project>sycamore_row_wifi</project>
+    <dagent>DA_BR.bin</dagent>
+    <scatter>../MT6835_Android_scatter.xml</scatter>
+    <build_version>alps-mp-t0.mp1-V13.17.3</build_version>
+    <build_time>2025-12-30 03:48:50</build_time>
+    <version>1.0</version>
+    <contact>Fengping.Yu</contact>
+</flash-mode>
