@@ -1,3 +1,4 @@
+[🇬🇧 Read in English](README.md)
 # 🛠️ Lenovo Xiaoxin Pad (TB335FC) Toolkit & Guides
 
 Коллекция утилит и подробных руководств для управления, модификации и прошивки устройств на базе MediaTek (MT6835), с фокусом на **Lenovo Xiaoxin Pad 2025 (TB335FC)**.
