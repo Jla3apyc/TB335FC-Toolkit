@@ -16,7 +16,7 @@ A step-by-step guide for complete flashing, recovery, and device maintenance usi
 * **Purpose:** Install stock or custom firmware, recover device after failed modifications (unbrick), install MediaTek VCOM drivers.
 * **Features:** Detailed screenshots, scatter file structure explanation, SLA/DA authentication bypass methods.
 
-### 🌍 2. [TB335FC-Region-Code-Changer](TB335FC-Region-Code-Changer.md)
+### 🌍 2. [TB335FC-region-code-changer](TB335FC-region-code-changer.md)
 A minimalist, portable, and safe tool for changing the region code in the `proinfo` partition.
 * **Purpose:** Activate Widevine L1 (HD video), Google Play certification, change regional settings.
 * **Features:** No Python required, works via built-in PowerShell, automatically reads scatter files, bilingual interface (RU/EN), and built-in input validation.
