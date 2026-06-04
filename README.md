@@ -25,7 +25,7 @@ A minimalist, portable, and safe tool for changing the region code in the `proin
 
 ## 🙏 Credits
 
-* The utility logic is inspired by the **LPMBox** project and community research on **4PDA**.
+* The utility logic is inspired by **SP Flash Tool**, **LPMBox** projects and community research on **4PDA**.
 * Thanks to all enthusiasts who share knowledge about the MediaTek platform.
 
 > *This project is provided for educational and informational purposes only. The author is not responsible for any direct or indirect damage caused to your device.*
