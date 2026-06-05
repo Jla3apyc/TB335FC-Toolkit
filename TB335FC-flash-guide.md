@@ -50,4 +50,9 @@ Instructions for flashing the Lenovo Xiaoxin Pad 11 2025 (TB335FC - China) with 
 > 💡 **Compatibility Note:** This method also works with:
 > `TB336FU_ZUI_17.5.10.085` + `TB335FC_ZUXOS_1.5.10.057`
 
+## 🙏 Credits
+- The logic is inspired by the **LPMBox** project and community research on **4PDA**.
+- The tool is designed with a focus on safety, transparency, and ease of use.
+- *This tool is provided for educational purposes. The author is not responsible for any damage caused to your device.*
+
 [YouTube](https://www.youtube.com/watch?v=mYe1XaooGX4)
