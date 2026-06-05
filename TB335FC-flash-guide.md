@@ -1,7 +1,9 @@
 [🇷🇺 Читать на русском](TB335FC-flash-guide_ru.md)
 # Lenovo Xiaoxin Pad 11 2025 (TB335FC) flash guide
 Instructions for flashing the Lenovo Xiaoxin Pad 11 2025 (TB335FC - China) with the Lenovo Tab K11 Gen 2 (TB336FU - Global) firmware
-
+---
+[Download link](https://github.com/Jla3apyc/TB335FC-flash-guide/releases/tag/TB335FC-flash-guide)
+---
 # ⚠️ Warning Before You Start
 > - Incorrect flashing can **permanently brick your device**
 > - Ensure your tablet is charged to **at least 50%**
