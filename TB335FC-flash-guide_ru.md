@@ -1,7 +1,9 @@
 [🇬🇧 Read in English](TB335FC-flash-guide.md)
 # Инструкция по прошивке Lenovo Xiaoxin Pad 11 2025 (TB335FC)
 Инструкция по прошивке планшета Lenovo Xiaoxin Pad 11 2025 (TB335FC - China) прошивкой Lenovo Tab K11 Gen 2 (TB336FU - Global)
-
+---
+[Ссылка для скачивания](https://github.com/Jla3apyc/TB335FC-flash-guide/releases/tag/TB335FC-flash-guide)
+---
 # ⚠️ Предупреждение перед началом
 > - Неправильная прошивка может **навсегда превратить ваше устройство в «кирпич»**
 > - Убедитесь, что планшет заряжен не менее чем **на 50%**
