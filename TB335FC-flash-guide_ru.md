@@ -21,7 +21,7 @@
 - Прошивка: `TB335FC_ZUXOS_1.5.10.172` (источник для `dtbo.img`)
 - Инструмент для прошивки: `SP Flash Tool v6` (обычно входит в папку с прошивкой)
 - Драйверы: `MTK Driver Setup.exe`
-- Доработанный файл scatter: [MT6835_Android_scatter.xml](https://github.com/user-attachments/files/28256549/MT6835_Android_scatter.xml) (в котором активирована прошивка слотов A и B)
+- Доработанный файл scatter: MT6835_Android_scatter.xml (в котором активирована прошивка слотов A и B)
 - USB-кабель и **выключенный** планшет
 
 ## 🔧 Пошаговая инструкция
