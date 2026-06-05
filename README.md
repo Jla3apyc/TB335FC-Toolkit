@@ -14,7 +14,7 @@ This toolkit consists of two interconnected projects. Choose the one that matche
 ### 📖 1. [TB335FC-flash-guide](TB335FC-flash-guide.md)
 A step-by-step guide for complete flashing, recovery, and device maintenance using SP Flash Tool.
 * **Purpose:** Install stock or custom firmware, recover device after failed modifications (unbrick), install MediaTek VCOM drivers.
-* **Features:** Detailed screenshots, scatter file structure explanation, SLA/DA authentication bypass methods.
+* **Features:** A new way to install global firmware TB336FU on a Chinese tablet TB335FC.
 
 ### 🌍 2. [TB335FC-region-code-changer](TB335FC-region-code-changer.md)
 A minimalist, portable, and safe tool for changing the region code in the `proinfo` partition.
