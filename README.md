@@ -11,16 +11,20 @@ A collection of utilities and detailed guides for managing, modifying, and flash
 
 This toolkit consists of two interconnected projects. Choose the one that matches your task:
 
-### 📖 1. [TB335FC-flash-guide](TB335FC-flash-guide.md)
+### 📖 1. [TB335FC flash guide](TB335FC-flash-guide.md)
 A step-by-step guide for complete flashing, recovery, and device maintenance using SP Flash Tool.
 * **Purpose:** Install stock or custom firmware, recover device after failed modifications (unbrick), install MediaTek VCOM drivers.
 * **Features:** A new way to install global firmware TB336FU on a Chinese tablet TB335FC.
 
-### 🌍 2. [TB335FC-region-code-changer](TB335FC-region-code-changer.md)
+### 🌍 2. [TB335FC region code changer](TB335FC-region-code-changer.md)
 A minimalist, portable, and safe tool for changing the region code in the `proinfo` partition.
 * **Purpose:** Activate Widevine L1 (HD video), Google Play certification, change regional settings.
 * **Features:** No Python required, works via built-in PowerShell, automatically reads scatter files, bilingual interface (RU/EN), and built-in input validation.
 
+### 🧹 3. [TB336FU bloatware uninstaller](TB336FU-bloatware-uninstaller.md)
+A lightweight, portable script for removing pre-installed bloatware.
+* **Purpose:** Facilitates the removal of pre-installed bloatware from Lenovo Xiaoxin Pad 2025 (TB336FU firmware) and other Android tablets via ADB.
+* **Features:** No installation required: Simply unpack the utility and run TB336FU_bloatware_uninstaller.bat. Safe removal: Uses `pm uninstall --user 0` — apps can be restored later.
 ---
 
 ## 🙏 Credits
