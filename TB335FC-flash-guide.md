@@ -20,7 +20,7 @@ Instructions for flashing the Lenovo Xiaoxin Pad 11 2025 (TB335FC - China) with 
 
 ## 📦 What You'll Need
 - Firmware: `TB336FU_ZUI_17.5.10.213` (main)
-- Firmware: `TB335FC_ZUXOS_1.5.10.172` (source for `dtbo.img`)
+- Firmware: `TB335FC_ZUXOS_1.5.10.172` (source for `dtbo.img`), or the existing `dtbo.img` file (available on the release page)
 - Flashing tool: `SP Flash Tool v6` (usually included in firmware folder)
 - Drivers: `MTK Driver Setup.exe`
 - Custom scatter file: `MT6835_Android_scatter.xml` (it has enabled flashing of slots A and B)
