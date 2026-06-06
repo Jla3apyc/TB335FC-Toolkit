@@ -1,8 +1,10 @@
-[🇬🇧 Read in English](TB335FC-flash-guide.md) [YouTube](https://youtu.be/fTFe1EVDuOQ)
+[🇬🇧 Read in English](TB335FC-flash-guide.md)
 # Инструкция по прошивке Lenovo Xiaoxin Pad 11 2025 (TB335FC)
 Инструкция по установке на планшет Lenovo Xiaoxin Pad 11 2025 (TB335FC - China) прошивки от Lenovo Tab K11 Gen 2 (TB336FU - Global)
 ---
-[Ссылка для скачивания](https://github.com/Jla3apyc/TB335FC-flash-guide/releases/tag/TB335FC-flash-guide)
+[Ссылка на релиз](https://github.com/Jla3apyc/TB335FC-flash-guide/releases/tag/TB335FC-flash-guide)
+---
+[YouTube](https://youtu.be/fTFe1EVDuOQ)
 ---
 # ⚠️ Предупреждение перед началом
 > - Неправильная прошивка может **навсегда превратить ваше устройство в «кирпич»**
@@ -18,7 +20,7 @@
 
 ## 📦 Что вам потребуется
 - Прошивка: `TB336FU_ZUI_17.5.10.213` (основная)
-- Прошивка: `TB335FC_ZUXOS_1.5.10.172` (источник для `dtbo.img`)
+- Прошивка: `TB335FC_ZUXOS_1.5.10.172` (источник для `dtbo.img`), или готовый файл `dtbo.img` (есть на странице релиза)
 - Инструмент для прошивки: `SP Flash Tool v6` (обычно входит в папку с прошивкой)
 - Драйверы: `MTK Driver Setup.exe`
 - Доработанный файл scatter: `MT6835_Android_scatter.xml` (в котором активирована прошивка слотов A и B)
