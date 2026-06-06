@@ -144,7 +144,7 @@ The script removes the following bloatware. You can **edit the `.bat` file** to 
 
 ## 🙏 Credits
 
-* Inspired by the **ADB AppControl** project and community research on **4PDA** and **XDA Developers**.
+* Inspired by the **ADB AppControl** project and community research on **4PDA**.
 * Uses official **Android Platform Tools** from Google.
 
 > *This tool is provided for educational and informational purposes only. The author is not responsible for any direct or indirect damage caused to your device.*
