@@ -4,7 +4,7 @@
 Легковесный портативный скрипт для удаления предустановленного мусорного ПО (bloatware) с **Lenovo Xiaoxin Pad 2025 (прошивка TB336FU)** и других Android-планшетов через ADB. Двуязычный интерфейс (английский/русский).
 
 ---
-[Ссылка для скачивания](https://github.com/Jla3apyc/TB335FC-Toolkit/releases/tag/TB336FU-bloatware-uninstaller)
+[Ссылка на релиз](https://github.com/Jla3apyc/TB335FC-Toolkit/releases/tag/TB336FU-bloatware-uninstaller)
 ---
 
 > ⚠️ **ОТКАЗ ОТ ОТВЕТСТВЕННОСТИ: ВСЕ ДЕЙСТВИЯ НА СВОЙ СТРАХ И РИСК!**  
