@@ -8,7 +8,7 @@
 > **Важно:** Смена региона с высокой вероятностью **отключит получение OTA-обновлений**. Всегда делайте полный бэкап перед началом работы.
 
 ---
-[Ссылка для скачивания](https://github.com/Jla3apyc/TB335FC-flash-guide/releases/tag/TB335FC-region-code-changer)
+[Ссылка на релиз](https://github.com/Jla3apyc/TB335FC-flash-guide/releases/tag/TB335FC-region-code-changer)
 ---
 
 ## ✨ Возможности
