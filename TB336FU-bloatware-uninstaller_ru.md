@@ -1,7 +1,7 @@
 [🇬🇧 Read in English](TB336FU-bloatware-uninstaller.md)
 # 🧹 Удаление Bloatware для TB336FU
 
-Легковесный портативный скрипт для удаления предустановленного мусорного ПО (bloatware) с **Lenovo Xiaoxin Pad 2025 (TB336FU)** и других Android-планшетов через ADB. Двуязычный интерфейс (английский/русский).
+Легковесный портативный скрипт для удаления предустановленного мусорного ПО (bloatware) с **Lenovo Xiaoxin Pad 2025 (прошивка TB336FU)** и других Android-планшетов через ADB. Двуязычный интерфейс (английский/русский).
 
 ---
 [Ссылка для скачивания](https://github.com/Jla3apyc/TB335FC-Toolkit/releases/tag/TB336FU-bloatware-uninstaller)
@@ -27,7 +27,7 @@
 
 1. **Windows 10 / 11**
 2. Установленные **ADB-драйверы** на ПК (MediaTek VCOM или Google USB Driver)
-3. **Platform Tools (adb.exe)** — поместите в подпапку `adb`
+3. **Platform Tools (adb.exe)** — уже находится в подпапке `adb`
 4. **Отладка по USB включена** на планшете (см. инструкцию ниже)
 
 ---
@@ -43,10 +43,6 @@ TB336FU_bloatware_uninstaller/
     ├── AdbWinApi.dll
     └── AdbWinUsbApi.dll
 ```
-
-> 💡 **Совет:** Скачайте Platform Tools с [developer.android.com/tools/releases/platform-tools](https://developer.android.com/tools/releases/platform-tools) и распакуйте только `adb.exe` и два DLL-файла в папку `adb`.
-
----
 
 ## 🚀 Как использовать
 
@@ -109,13 +105,13 @@ TB336FU_bloatware_uninstaller/
 | `com.lemon.lvoverseas` | CapCut |
 | `com.opera.preinstall` | Браузер Opera |
 | `com.zhiliaoapp.musically` | TikTok |
-| `com.mongoosenet.bliss` | Bliss (неизвестно) |
 
 ### 🟢 Игры и развлечения
 | Пакет | Описание |
 |-------|----------|
 | `com.agedstudio.board.aged.color.coloring.number.art.paint.draw` | Раскраска по номерам |
 | `com.agedstudio.card.solitaire.klondike` | Пасьянс Клондайк |
+| `com.mongoosenet.bliss` | Bliss |
 | `com.block.juggle` | Block Juggle |
 | `com.cybercat.acbridge` | Игра AC Bridge |
 | `com.oakever.jigsawcard` | Jigsaw Card |
@@ -131,29 +127,6 @@ TB336FU_bloatware_uninstaller/
 | `com.android.bookmarkprovider` | Провайдер закладок |
 | `com.android.providers.partnerbookmarks` | Партнерские закладки |
 | `com.android.providers.partnerbrowsercustomizations` | Настройки партнерского браузера |
-
-> ⚠️ **Примечание:** Удаление системных компонентов может повлиять на работу браузера. Удаляйте их только если уверены.
-
----
-
-## 🔄 Как восстановить удаленные приложения
-
-Поскольку скрипт использует `pm uninstall --user 0`, все приложения можно восстановить одной ADB-командой:
-
-```bash
-adb shell cmd package install-existing <имя_пакета>
-```
-
-**Пример:**
-```bash
-adb shell cmd package install-existing com.google.android.apps.photos
-```
-
-**Чтобы восстановить ВСЕ удаленные приложения сразу:**
-```bash
-for /f "tokens=*" %p in ('adb shell pm list packages -d') do adb shell cmd package install-existing %p
-```
-
 ---
 
 ## 🛠️ Решение проблем
