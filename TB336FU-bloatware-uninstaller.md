@@ -4,7 +4,7 @@
 A lightweight, portable batch script for removing pre-installed bloatware from **Lenovo Xiaoxin Pad 2025 (TB336FU firmware)** and other Android tablets using ADB. Bilingual interface (English/Russian).
 
 ---
-[Download link](https://github.com/Jla3apyc/TB335FC-Toolkit/releases/tag/TB336FU-bloatware-uninstaller)
+[Link to the release](https://github.com/Jla3apyc/TB335FC-Toolkit/releases/tag/TB336FU-bloatware-uninstaller)
 ---
 
 > ⚠️ **DISCLAIMER: USE AT YOUR OWN RISK!**  
