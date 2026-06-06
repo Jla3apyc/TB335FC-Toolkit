@@ -1,7 +1,7 @@
 [🇷🇺 Читать на русском](TB336FU-bloatware-uninstaller_ru.md)
 # 🧹 TB336FU Bloatware Uninstaller
 
-A lightweight, portable batch script for removing pre-installed bloatware from **Lenovo Xiaoxin Pad 2025 (TB336FU)** and other Android tablets using ADB. Bilingual interface (English/Russian).
+A lightweight, portable batch script for removing pre-installed bloatware from **Lenovo Xiaoxin Pad 2025 (TB336FU firmware)** and other Android tablets using ADB. Bilingual interface (English/Russian).
 
 ---
 [Download link](https://github.com/Jla3apyc/TB335FC-Toolkit/releases/tag/TB336FU-bloatware-uninstaller)
@@ -27,7 +27,7 @@ A lightweight, portable batch script for removing pre-installed bloatware from *
 
 1. **Windows 10 / 11**
 2. **ADB drivers** installed on your PC (MediaTek VCOM or Google USB Driver)
-3. **Platform Tools (adb.exe)** — place in the `adb` subfolder
+3. **Platform Tools (adb.exe)** — already in the `adb` subfolder
 4. **USB Debugging enabled** on the tablet (see instructions below)
 
 ---
@@ -43,10 +43,6 @@ TB336FU_bloatware_uninstaller/
     ├── AdbWinApi.dll
     └── AdbWinUsbApi.dll
 ```
-
-> 💡 **Tip:** Download Platform Tools from [developer.android.com/tools/releases/platform-tools](https://developer.android.com/tools/releases/platform-tools) and extract only `adb.exe` and the two DLL files into the `adb` folder.
-
----
 
 ## 🚀 How to Use
 
@@ -109,13 +105,13 @@ The script removes the following bloatware. You can **edit the `.bat` file** to 
 | `com.lemon.lvoverseas` | CapCut |
 | `com.opera.preinstall` | Opera Browser |
 | `com.zhiliaoapp.musically` | TikTok |
-| `com.mongoosenet.bliss` | Bliss (unknown) |
 
 ### 🟢 Games & Entertainment
 | Package | Description |
 |---------|-------------|
 | `com.agedstudio.board.aged.color.coloring.number.art.paint.draw` | Color by Number |
 | `com.agedstudio.card.solitaire.klondike` | Solitaire Klondike |
+| `com.mongoosenet.bliss` | Bliss |
 | `com.block.juggle` | Block Juggle |
 | `com.cybercat.acbridge` | AC Bridge game |
 | `com.oakever.jigsawcard` | Jigsaw Card |
