@@ -9,7 +9,7 @@ A collection of utilities and detailed guides for managing, modifying, and flash
 
 ## 📚 Projects
 
-This toolkit consists of two interconnected projects. Choose the one that matches your task:
+This toolkit consists of interconnected projects. Choose the one that matches your task:
 
 ### 📖 1. [TB335FC flash guide](TB335FC-flash-guide.md)
 A step-by-step guide for complete flashing, recovery, and device maintenance using SP Flash Tool.
@@ -28,6 +28,6 @@ A lightweight, portable script for removing pre-installed bloatware.
 ---
 
 ## 🙏 Credits
-* The logic is inspired by **SP Flash Tool**, **LPMBox** projects and community research on **4PDA**.
+* The logic is inspired by **SP Flash Tool, ADB AppControl, LPMBox** projects and community research on **4PDA**.
 * Thanks to all enthusiasts who share knowledge about the MediaTek platform.
 > *This project is provided for educational and informational purposes only. The author is not responsible for any direct or indirect damage caused to your device.*
