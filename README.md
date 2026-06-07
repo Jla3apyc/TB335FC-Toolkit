@@ -19,12 +19,12 @@ A step-by-step guide for complete flashing, recovery, and device maintenance usi
 ### 🌍 2. [TB335FC region code changer](TB335FC-region-code-changer.md)
 A minimalist, portable, and safe tool for changing the region code in the `proinfo` partition.
 * **Purpose:** Activate Widevine L1 (HD video), Google Play certification, change regional settings.
-* **Features:** No Python required, works via built-in PowerShell, automatically reads scatter files, bilingual interface (RU/EN), and built-in input validation.
+* **Features:** No Python required, works via built-in PowerShell. Automatically reads scatter files.
 
 ### 🧹 3. [TB336FU bloatware uninstaller](TB336FU-bloatware-uninstaller.md)
 A lightweight, portable script for removing pre-installed bloatware.
 * **Purpose:** Facilitates the removal of pre-installed bloatware from Lenovo Xiaoxin Pad 2025 (TB336FU firmware) and other Android tablets via ADB.
-* **Features:** No installation required: Simply unpack the utility and run TB336FU_bloatware_uninstaller.bat. Safe removal: Uses `pm uninstall --user 0` — apps can be restored later.
+* **Features:** Developed for the TB336FU ZUI_17.5.10.213 firmware installed on the TB335FC. It uses safe uninstallation via `pm uninstall --user 0` with the ability to fully restore apps. It's easily configured by editing the package list in a `.bat` file.
 ---
 
 ## 🙏 Credits
