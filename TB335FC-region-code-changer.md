@@ -1,7 +1,7 @@
 [🇷🇺 Читать на русском](TB335FC-region-code-changer_ru.md)
-# 🔄 Lenovo Xiaoxin region code changer (TB335FC & MTK Devices)
+# 🔄 Lenovo Xiaoxin Pad region code changer (TB335FC & MTK Devices)
 
-A minimalist, portable, and safe tool for changing the region code in the `proinfo` partition of MediaTek (MTK) devices. Originally designed for the **Lenovo Xiaoxin Pad 2025 (TB335FC)**, but universally compatible with other MTK devices (UFS/EMMC) when provided with the correct scatter file.
+A minimalist, portable, and safe tool for changing the region code in the `proinfo` partition of the **Lenovo Xiaoxin Pad 2025 (TB335FC)**.
 
 > ⚠️ **DISCLAIMER: USE AT YOUR OWN RISK!**  
 > Modifying the `proinfo` partition carries a risk of bricking your device if done incorrectly.  
@@ -62,8 +62,8 @@ Lenovo_Region_Changer/
 
 ## ⚠️ Important Notes
 
-- The tool accepts **any 2 Latin letters** (e.g., `GB`, `XY`). It will find *any* existing `XXYY` format token in the file and replace it. If a valid token is not found, the process will safely abort.
-- After flashing the new region, go to **Settings → Apps → Google Play Store → Storage → Clear Data** for the changes to take effect.
+- The tool accepts **any 2 Latin letters** (e.g., `GB`, `XY`). It will find *any* existing `ABXX` format token in the file and replace it. If a valid token is not found, the process will safely abort.
+- After flashing the new region, go to **Settings → Apps → Google Play Store → Storage** and **Clear Data** for the changes to take effect.
 - **Never** disconnect the USB cable during read or write processes.
 
 ---
