@@ -12,7 +12,7 @@ A collection of utilities and detailed guides for managing, modifying, and flash
 This toolkit consists of interconnected projects. Choose the one that matches your task:
 
 ### 📖 1. [TB335FC flash guide](TB335FC-flash-guide.md)
-A step-by-step guide for complete flashing, recovery, and device maintenance using SP Flash Tool.
+A step-by-step guide for complete flashing, recovery, and device maintenance using `SP Flash Tool`.
 * **Purpose:** Installing global TB336FU firmware on the Chinese TB335FC tablet, recovering your device after failed modifications (unbrick).
 * **Features:** Uses a new, original method for installing global firmware on the Chinese tablet.
 
