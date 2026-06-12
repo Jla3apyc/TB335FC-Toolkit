@@ -1,7 +1,7 @@
 [🇷🇺 Читать на русском](TB336FU-bloatware-uninstaller_ru.md)
-# 🧹 TB336FU bloatware uninstaller
+# 🧹 TB336FU bloatware uninstaller and OTA updates disabler
 
-A lightweight, portable batch script for removing pre-installed bloatware from **Lenovo Xiaoxin Pad 2025 (TB336FU firmware)** and other Android tablets using ADB. Bilingual interface (English/Russian).
+A lightweight, portable script for disabling OTA updates and removing pre-installed bloatware from **Lenovo Xiaoxin Pad 2025 (TB336FU firmware)**.
 
 ---
 [Link to the release](https://github.com/Jla3apyc/TB335FC-Toolkit/releases/tag/TB336FU-bloatware-uninstaller)
