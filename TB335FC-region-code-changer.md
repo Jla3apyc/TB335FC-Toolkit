@@ -1,7 +1,7 @@
 [🇷🇺 Читать на русском](TB335FC-region-code-changer_ru.md)
-# 🔄 Lenovo Xiaoxin Pad region code changer (TB335FC & MTK Devices)
+# 🔄 Lenovo Xiaoxin Pad region code changer (TB335FC)
 
-A minimalist, portable, and safe tool for changing the region code in the `proinfo` partition of the **Lenovo Xiaoxin Pad 2025 (TB335FC)**.
+A minimalist, portable, and safe tool for changing the region code of the **Lenovo Xiaoxin Pad 2025 (TB335FC)** tablet.
 
 > ⚠️ **DISCLAIMER: USE AT YOUR OWN RISK!**  
 > Modifying the `proinfo` partition carries a risk of bricking your device if done incorrectly.  
