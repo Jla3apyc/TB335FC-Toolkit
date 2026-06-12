@@ -17,51 +17,19 @@ A step-by-step guide for complete flashing, recovery, and device maintenance usi
 * **Features:** Uses a new, author's method for installing global firmware on the Chinese tablet.
 
 ### 🌍 2. [TB335FC region code changer](TB335FC-region-code-changer.md)
-A tool for changing the region code in the `proinfo` partition.
-* **Purpose:** Activating Widevine L1 (HD video), Google Play certification, changing regional settings.
+A minimalist, portable, and safe tool for changing the region code in the `proinfo` partition.
+* **Purpose:** Activate Widevine L1 (HD video), Google Play certification, change regional settings.
 * **Features:** No Python required, works via built-in PowerShell. Automatically reads scatter files.
 
 ### 🧹 3. [TB336FU bloatware uninstaller](TB336FU-bloatware-uninstaller.md)
-A script for disabling OTA updates and removing pre-installed bloatware.
+A lightweight, portable script for disabling OTA updates and removing pre-installed bloatware.
 * **Purpose:** Automatically disables non-functional OTA updates and simplifies the removal of pre-installed bloatware on the Lenovo Xiaoxin Pad 2025 (TB336FU firmware) via ADB.
 * **Features:** Designed for TB336FU ZUI_17.5.10.213 firmware installed on the TB335FC tablet. Uses safe uninstallation via `pm uninstall --user 0` with the ability to fully restore apps. Easily customizable by editing the package list in the `.bat` file.
 
 ---
 
 ## 🙏 Acknowledgments
-* The logic is inspired by projects such as **SP Flash Tool, ADB AppControl, LPMBox** and research from the **4PDA** community.
+* The logic is inspired by projects such as **SP Flash Tool**, **ADB AppControl**, **LPMBox** and research from the **4PDA** community.
 * Thanks to all the enthusiasts who share knowledge about the MediaTek platform.
 
 > *This project is provided for informational and educational purposes only. The author is not responsible for any direct or indirect damage caused to your device.*
-### 🌍 2. [TB335FC region code changer](TB335FC-region-code-changer.md)
-A tool for changing the region code in the `proinfo` partition.
-* **Purpose:** Activating Widevine L1 (HD video), Google Play certification, and changing regional settings.
-* **Features:** Does not require Python, runs via built-in PowerShell. Automatically reads scatter files.
-
-### 🧹 3. [TB336FU bloatware uninstaller](TB336FU-bloatware-uninstaller.md)
-A script for disabling OTA updates and removing pre-installed bloatware.
-* **Purpose:** Automatically disables non-functional OTA updates and facilitates the removal of pre-installed bloatware from the Lenovo Xiaoxin Pad 2025 (TB336FU firmware) via ADB.
-* **Features:** Designed for the TB336FU ZUI_17.5.10.213 firmware installed on the TB335FC tablet. Uses safe removal via `pm uninstall --user 0` with the ability to fully restore applications. Easily configurable by editing the package list in the `.bat` file.
-
----
-
-## 🙏 Acknowledgments
-* The logic is inspired by the **SP Flash Tool, ADB AppControl, LPMBox** projects, and community research on **4PDA**.
-* Thanks to all the enthusiasts who share their knowledge about the MediaTek platform.
-
-> *This project is provided exclusively for informational and educational purposes. The author is not responsible for any direct or indirect damage caused to your device.*
-### 🌍 2. [TB335FC region code changer](TB335FC-region-code-changer.md)
-A minimalist, portable, and safe tool for changing the region code in the `proinfo` partition.
-* **Purpose:** Activate Widevine L1 (HD video), Google Play certification, change regional settings.
-* **Features:** No Python required, works via built-in PowerShell. Automatically reads scatter files.
-
-### 🧹 3. [TB336FU bloatware uninstaller](TB336FU-bloatware-uninstaller.md)
-A lightweight, portable script for removing pre-installed bloatware.
-* **Purpose:** Facilitates the removal of pre-installed bloatware from Lenovo Xiaoxin Pad 2025 (TB336FU firmware) and other Android tablets via ADB.
-* **Features:** Developed for the TB336FU ZUI_17.5.10.213 firmware installed on the TB335FC. It uses safe uninstallation via `pm uninstall --user 0` with the ability to fully restore apps. It's easily configured by editing the package list in a `.bat` file.
----
-
-## 🙏 Credits
-* The logic is inspired by **SP Flash Tool, ADB AppControl, LPMBox** projects and community research on **4PDA**.
-* Thanks to all enthusiasts who share knowledge about the MediaTek platform.
-> *This project is provided for educational and informational purposes only. The author is not responsible for any direct or indirect damage caused to your device.*
