@@ -1,7 +1,7 @@
 [Russian version](README_RU.md)
 # 🛠️ Lenovo Xiaoxin Pad (TB335FC) Toolkit & Guides
 
-A collection of utilities and detailed guides for managing, modifying, and flashing MediaTek-based devices (MT6835), with a focus on the **Lenovo Xiaoxin Pad 2025 (TB335FC)**.
+A collection of utilities and detailed guides for managing, modifying, and flashing the **Lenovo Xiaoxin Pad 2025 (TB335FC)**.
 
 > ⚠️ **IMPORTANT:** All actions are performed at your own risk. Modifying system partitions may lead to loss of warranty or bricking your device. **Always make backups before proceeding.**
 
@@ -14,7 +14,7 @@ This toolkit consists of interconnected projects. Choose the one that matches yo
 ### 📖 1. [TB335FC flash guide](TB335FC-flash-guide.md)
 A step-by-step guide for complete flashing, recovery, and device maintenance using `SP Flash Tool`.
 * **Purpose:** Installing global TB336FU firmware on the Chinese TB335FC tablet, recovering your device after failed modifications (unbrick).
-* **Features:** Uses a new, original method for installing global firmware on the Chinese tablet.
+* **Features:** Uses a new, author's method for installing global firmware on the Chinese tablet.
 
 ### 🌍 2. [TB335FC region code changer](TB335FC-region-code-changer.md)
 A tool for changing the region code in the `proinfo` partition.
