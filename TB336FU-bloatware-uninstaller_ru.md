@@ -1,7 +1,7 @@
 [🇬🇧 Read in English](TB336FU-bloatware-uninstaller.md)
-# 🧹 Отключение OTA-обновлений и удаление bloatware для TB336FU
+# 🧹 Отключение OTA-обновлений и удаление мусорных приложений в TB336FU
 
-Легковесный портативный скрипт для удаления предустановленного мусорного ПО (bloatware) с **Lenovo Xiaoxin Pad 2025 (прошивка TB336FU)** .
+Легковесный портативный скрипт для удаления предустановленного мусорного программного обеспечения (bloatware) с **Lenovo Xiaoxin Pad 2025 (прошивка TB336FU)** .
 
 ---
 [Ссылка на релиз](https://github.com/Jla3apyc/TB335FC-Toolkit/releases/tag/TB336FU-bloatware-uninstaller)
