@@ -81,7 +81,6 @@ The script removes the following bloatware. You can **edit the `.bat` file** to 
 | `com.google.android.apps.tachyon` | Google Duo |
 | `com.google.android.apps.youtube.kids` | YouTube Kids |
 | `com.google.android.apps.youtube.music.setupwizard` | YouTube Music Setup |
-| `com.google.android.contacts` | Google Contacts |
 | `com.google.android.feedback` | Crash Reports |
 | `com.google.android.play.games` | Google Play Games |
 | `com.google.android.videos` | Google Play Movies |
