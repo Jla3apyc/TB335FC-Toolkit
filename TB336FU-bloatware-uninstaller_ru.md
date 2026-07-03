@@ -81,7 +81,6 @@ TB336FU_bloatware_uninstaller/
 | `com.google.android.apps.tachyon` | Google Duo |
 | `com.google.android.apps.youtube.kids` | YouTube Kids |
 | `com.google.android.apps.youtube.music.setupwizard` | Настройка YouTube Music |
-| `com.google.android.contacts` | Google Контакты |
 | `com.google.android.feedback` | Отчеты о сбоях |
 | `com.google.android.play.games` | Google Play Игры |
 | `com.google.android.videos` | Google Play Фильмы |
