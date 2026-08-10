@@ -1,4 +1,4 @@
-[English version](README.md)
+[🇬🇧 Read in English](README.md)
 # 🛠️ Инструменты и инструкции для Lenovo Xiaoxin Pad (TB335FC)
 
 Коллекция утилит и подробных руководств для управления, модификации и прошивки **Lenovo Xiaoxin Pad 2025 (TB335FC)**.
