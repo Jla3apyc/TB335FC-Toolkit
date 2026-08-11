@@ -3,12 +3,10 @@
 
 A lightweight, portable script for disabling OTA updates and removing pre-installed bloatware from **Lenovo Xiaoxin Pad 2025 (TB336FU firmware)**.
 
----
-
 > ⚠️ **DISCLAIMER: USE AT YOUR OWN RISK!**  
 > This tool removes system apps using `pm uninstall --user 0`. The apps are removed **only for the current user** and can be restored via ADB. However, removing certain packages may affect system stability or OTA updates. **Always review the list of packages before running the script.**
 
----
+## [Link to the release](https://github.com/Jla3apyc/TB335FC-Toolkit/releases/tag/TB336FU-bloatware-uninstaller)
 
 ## ✨ Features
 
@@ -40,8 +38,6 @@ TB336FU_bloatware_uninstaller/
     ├── AdbWinApi.dll
     └── AdbWinUsbApi.dll
 ```
-[Link to the release](https://github.com/Jla3apyc/TB335FC-Toolkit/releases/tag/TB336FU-bloatware-uninstaller)
-
 ---
 
 ## 🚀 How to Use
