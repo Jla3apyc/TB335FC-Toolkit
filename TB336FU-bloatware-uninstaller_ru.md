@@ -10,10 +10,6 @@
 
 ---
 
-[Ссылка на релиз](https://github.com/Jla3apyc/TB335FC-Toolkit/releases/tag/TB336FU-bloatware-uninstaller)
-
----
-
 ## ✨ Возможности
 
 - 🚀 **Без установки:** Просто распакуйте утилиту и запустите `TB336FU_bloatware_uninstaller.bat`.
@@ -39,12 +35,14 @@
 ```text
 TB336FU_bloatware_uninstaller/
 ├── 📄 TB336FU_bloatware_uninstaller.bat   # Основной скрипт (двуязычный)
-├── 📄 README_RU.md                        # Эта документация
 └── 📁 adb/                                # ⬇️ Сюда поместите Platform Tools
     ├── adb.exe                            # (с developer.android.com)
     ├── AdbWinApi.dll
     └── AdbWinUsbApi.dll
 ```
+[Ссылка на релиз](https://github.com/Jla3apyc/TB335FC-Toolkit/releases/tag/TB336FU-bloatware-uninstaller)
+
+---
 
 ## 🚀 Как использовать
 
