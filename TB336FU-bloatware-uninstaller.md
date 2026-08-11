@@ -26,7 +26,7 @@ A lightweight, portable script for disabling OTA updates and removing pre-instal
 ## 📋 Prerequisites
 
 1. **Windows 10 / 11**
-2. **ADB drivers** installed on your PC (MediaTek VCOM or Google USB Driver)
+2. **ADB drivers, MediaTek VCOM drivers** installed on your PC
 3. **Platform Tools (adb.exe)** — already in the `adb` subfolder
 4. **USB Debugging enabled** on the tablet (see instructions below)
 
