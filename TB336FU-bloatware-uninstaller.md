@@ -133,7 +133,6 @@ The script removes the following bloatware. You can **edit the `.bat` file** to 
 
 | Issue | Solution |
 |-------|----------|
-| `ERROR: adb.exe not found!` | Download Platform Tools and place `adb.exe` + DLLs in the `adb` folder. |
 | Device not listed in ADB | Enable USB Debugging on the tablet. Check the built-in help (press `N` when prompted). |
 | `unauthorized` in ADB | Unlock the tablet screen and tap "Allow USB debugging" on the prompt. |
 | App reappears after reboot | This should not happen with `--user 0`. If it does, the app may be protected by the system. |
