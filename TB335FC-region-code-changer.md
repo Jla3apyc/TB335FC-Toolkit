@@ -7,9 +7,7 @@ A minimalist, portable, and safe tool for changing the region code of the **Leno
 > Modifying the `proinfo` partition carries a risk of bricking your device if done incorrectly.  
 > **Note:** Changing the region code will likely **stop OTA updates** from working. Always make a full backup before proceeding.
 
----
-[Link to the release](https://github.com/Jla3apyc/TB335FC-flash-guide/releases/tag/TB335FC-region-code-changer)
----
+## [Link to the release](https://github.com/Jla3apyc/TB335FC-flash-guide/releases/tag/TB335FC-region-code-changer)
 
 ## ✨ Features
 
